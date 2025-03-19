@@ -10,7 +10,7 @@ APP_ICON = "🔌"  # Icon displayed in the browser tab
 
 # Model settings
 DEFAULT_K_DOCS = 3  # Default number of documents to retrieve
-GEMINI_MODEL = "gemini-pro"  # Gemini model to use
+GEMINI_MODEL = "gemini-1.5-flash"  # Gemini model to use
 TEMPERATURE = 0.2  # Temperature for generation (lower is more deterministic)
 MAX_TOKENS = 1024  # Maximum tokens for generation
 
