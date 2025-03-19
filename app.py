@@ -22,7 +22,7 @@ if 'vector_store' not in st.session_state:
 # Main app layout
 st.title("Turbine Monitoring Assistant")
 
-Sidebar
+#Sidebar
 with st.sidebar:
     st.header("Configuration")
     st.markdown("Upload your turbine documentation and data to the `documents` folder before running the app.")
