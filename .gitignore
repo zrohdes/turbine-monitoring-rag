@@ -1,0 +1,30 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Streamlit artifacts
+.streamlit/
+
+# IDE files
+.idea/
+.vscode/
+
+# Vector stores
+*.faiss
+*.pkl
+
+# Logs
+*.log
