@@ -23,21 +23,21 @@ if 'vector_store' not in st.session_state:
 st.title("Turbine Monitoring Assistant")
 
 # Sidebar
-with st.sidebar:
-    st.header("Configuration")
-    st.markdown("Upload your turbine documentation and data to the `documents` folder before running the app.")
+# with st.sidebar:
+#     st.header("Configuration")
+#     st.markdown("Upload your turbine documentation and data to the `documents` folder before running the app.")
 
-    st.subheader("Model Settings")
-    k_docs = st.slider("Number of reference documents", 1, 10, 3)
+#     st.subheader("Model Settings")
+#     k_docs = st.slider("Number of reference documents", 1, 10, 3)
 
-    if st.button("Load Documents"):
-        with st.spinner("Loading documents..."):
-            documents = load_documents()
-            if documents:
-                st.session_state.vector_store = create_vector_store(documents)
-                st.success(f"Loaded {len(documents)} document chunks")
-            else:
-                st.error("No documents found or error loading documents")
+#     if st.button("Load Documents"):
+#         with st.spinner("Loading documents..."):
+#             documents = load_documents()
+#             if documents:
+#                 st.session_state.vector_store = create_vector_store(documents)
+#                 st.success(f"Loaded {len(documents)} document chunks")
+#             else:
+#                 st.error("No documents found or error loading documents")
 
 # Display chat interface
 display_chat_interface(k_docs)
