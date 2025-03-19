@@ -3,7 +3,6 @@ from langchain_openai.embeddings import OpenAIEmbeddings
 from langchain_community.vectorstores import FAISS
 import os
 
-os.environ["OPENAI_API_KEY"] = "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"
 
 @st.cache_resource
 def create_vector_store(_documents):
@@ -12,7 +11,7 @@ def create_vector_store(_documents):
         # Initialize embeddings
         embeddings = OpenAIEmbeddings(
             model="text-embedding-ada-002",
-            openai_api_key=os.environ.get("OPENAI_API_KEY")
+            openai_api_key="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"
         )
 
         # Create vector store
