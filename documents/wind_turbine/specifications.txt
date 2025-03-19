@@ -1,0 +1,79 @@
+Wind Turbine Technical Specifications
+
+Model: WT-5000X Series
+Manufacturer: WindPower Technologies
+
+General Specifications:
+- Rated Power: 5.0 MW
+- Cut-in Wind Speed: 3 m/s
+- Rated Wind Speed: 12 m/s
+- Cut-out Wind Speed: 25 m/s
+- Survival Wind Speed: 70 m/s
+- Design Life: 25 years
+
+Rotor:
+- Diameter: 158 meters
+- Swept Area: 19,607 m²
+- Speed Range: 5-14 rpm
+- Direction of Rotation: Clockwise (viewed from upwind)
+- Number of Blades: 3
+- Blade Length: 77 meters
+- Blade Material: Glass/carbon fiber reinforced polymer
+
+Tower:
+- Hub Height Options: 100m, 120m, 140m
+- Tower Material: Tubular steel
+- Foundation Type: Concrete spread footing or rock anchor
+
+Gearbox:
+- Type: Planetary/helical
+- Gear Ratio: 1:97
+- Lubrication System: Forced lubrication with oil filtration
+- Oil Cooling: Water/oil heat exchanger
+
+Generator:
+- Type: Doubly-fed induction generator (DFIG)
+- Voltage: 690V
+- Frequency: 50/60 Hz
+- Protection Class: IP54
+- Insulation Class: F
+- Cooling System: Liquid cooling
+
+Control System:
+- Type: Programmable logic controller (PLC)
+- Data Transmission: Fiber optic and Ethernet
+- Remote Monitoring: SCADA system compatibility
+- Pitch Control: Individual electric pitch control
+- Yaw System: Active yaw with hydraulic brake
+
+Environmental Conditions:
+- Operating Temperature Range: -20°C to +40°C
+- Extended Cold Climate Option: -30°C to +40°C
+- Maximum Humidity: 95%
+- Altitude: Up to 2000m above sea level (standard configuration)
+
+Safety Systems:
+- Emergency Stop: Multiple emergency stop buttons
+- Lightning Protection: Complete lightning protection system
+- Fire Detection: Automatic fire detection and suppression system
+- Ice Detection: Vibration-based ice detection system
+
+Noise Emission:
+- Sound Power Level: 105 dB(A) at 8 m/s wind speed
+- Low Noise Operation Mode: Available with reduced power output
+
+Grid Connection:
+- Grid Compliance: IEC 61400-21
+- Power Factor: 0.95 leading to 0.95 lagging
+- Fault Ride-Through: Yes, according to grid code requirements
+- Harmonics: According to IEC 61000-3-12
+
+Certification:
+- Design Certification: IEC 61400-1 Class IIA
+- Type Certification: Available upon request
+- Grid Compliance: Country-specific grid codes
+
+Maintenance:
+- Service Interval: 6 months
+- Major Overhaul: Every 5 years
+- Condition Monitoring: Integrated vibration and temperature monitoring

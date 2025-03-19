@@ -1,0 +1,102 @@
+Gas Turbine Technical Specifications
+
+Model: GT-25X Series
+Manufacturer: TurboGen Power Systems
+
+General Specifications:
+- Power Output: 25 MW
+- Simple Cycle Efficiency: 38%
+- Combined Cycle Efficiency: 58%
+- Heat Rate: 9,500 kJ/kWh (simple cycle)
+- Fuel Type: Natural gas, liquid fuel capability
+- Dual Fuel Operation: Available
+- Start-up Time: 15 minutes to full load
+- Design Life: 25 years / 200,000 operating hours
+
+Compressor:
+- Type: Axial flow
+- Pressure Ratio: 18:1
+- No. of Stages: 14
+- Air Flow: 80 kg/s
+- Inlet Guide Vanes: Adjustable
+- Bleed Valves: Automatic handling bleed system
+- Inlet Air Filtration: High efficiency filtration system
+
+Combustion System:
+- Type: Dry Low NOx (DLN) combustion system
+- Number of Combustors: 12
+- Fuel Flexibility: Natural gas, diesel, and other liquid fuels
+- NOx Emissions: <25 ppm with DLN (15% O2 dry)
+- CO Emissions: <10 ppm (15% O2 dry)
+- Flame Detection: Multiple flame detectors
+- Fuel Controls: Electronic fuel control system
+
+Turbine:
+- Type: Axial flow
+- No. of Stages: 4
+- Inlet Temperature: 1,350°C
+- Exhaust Temperature: 565°C
+- Exhaust Flow: 85 kg/s
+- Turbine Cooling: Closed-loop steam/air cooling system
+- Blade Material: Nickel-based superalloy with thermal barrier coating
+
+Generator:
+- Type: Synchronous
+- Rated Power: 29 MVA
+- Power Factor: 0.85
+- Voltage: 13.8 kV
+- Frequency: 50/60 Hz
+- Excitation System: Brushless excitation
+- Cooling System: Closed-loop air cooling
+
+Control System:
+- Type: Distributed Control System (DCS)
+- Redundancy: Triple redundant
+- Communication: Ethernet, Modbus, Profibus compatible
+- HMI: Touch screen operator interface
+- Remote Monitoring: Web-based monitoring system
+- Diagnostic System: Integrated diagnostic and trending
+
+Lubrication System:
+- Type: Forced lubrication system
+- Oil Pumps: Main and auxiliary (AC and DC)
+- Oil Coolers: Shell and tube heat exchangers
+- Oil Filtration: Duplex filters with automatic transfer
+- Oil Tank Capacity: 5,000 liters
+
+Starting System:
+- Type: Electric motor or hydraulic starting system
+- Starting Power: 400 kW electric motor
+- Torque Converter: Hydraulic torque converter
+
+Auxiliary Systems:
+- Fuel Gas System: Filtration, heating and pressure regulation
+- Liquid Fuel System: Pumps, filters, and flow dividers
+- Inlet Air System: Filtration house with silencers
+- Exhaust System: Silencers and stack
+- Fire Protection: CO2 or water mist fire suppression system
+
+Environmental Conditions:
+- Operating Temperature Range: -25°C to +45°C
+- Extended Temperature Range: -40°C to +50°C (with special package)
+- Maximum Humidity: 95%
+- Altitude: Up to 1,500m without derating
+
+Maintenance:
+- Hot Gas Path Inspection: Every 25,000 hours
+- Major Overhaul: Every 50,000 hours
+- Borescope Inspection Ports: Provided for inspection
+- Condition Monitoring: Vibration, temperature, and performance monitoring
+
+Emissions Control:
+- NOx Control: Dry Low NOx combustion system
+- SCR System: Optional Selective Catalytic Reduction system
+- CO Catalyst: Optional CO oxidation catalyst
+- Water/Steam Injection: Available for NOx reduction
+
+Packaging:
+- Enclosure: Weather-proof acoustic enclosure
+- Noise Level: 85 dB(A) at 1m from enclosure
+- Base Frame: Structural steel base frame
+- Dimensions (L×W×H): 15m × 4m × 4.5m
+- Total Weight: 120 tons

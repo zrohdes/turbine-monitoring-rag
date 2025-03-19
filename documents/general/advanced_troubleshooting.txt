@@ -1,0 +1,84 @@
+Advanced Turbine Troubleshooting and Diagnostics
+
+Introduction:
+This document provides comprehensive guidance on advanced troubleshooting and diagnostic techniques for both wind and gas turbines. It covers systematic approaches to complex problems, root cause analysis methodologies, and specialized diagnostic tools.
+
+Systematic Troubleshooting Approach:
+
+1. Data Collection and Analysis:
+   - Establish baseline performance parameters
+   - Collect operational data preceding the issue
+   - Identify deviation patterns from normal operation
+   - Analyze transient behavior during fault occurrence
+   - Review historical patterns of similar issues
+
+2. Symptom Categorization:
+   - Mechanical symptoms: Vibration, noise, physical damage
+   - Thermal symptoms: Temperature deviations, hotspots
+   - Performance symptoms: Power reduction, efficiency loss
+   - Control symptoms: Instability, hunting, oscillations
+   - Electrical symptoms: Voltage/current irregularities, trip events
+
+3. Diagnostic Decision Trees:
+   - Symptom-based branching logic
+   - Elimination of impossible causes
+   - Probability-weighted investigation paths
+   - Verification testing at each decision point
+   - Documentation of reasoning process
+
+4. Root Cause Analysis Methods:
+   - 5-Why technique
+   - Fishbone (Ishikawa) diagram
+   - Fault tree analysis
+   - Failure mode and effects analysis (FMEA)
+   - Pareto analysis for recurring issues
+
+Advanced Diagnostic Techniques for Wind Turbines:
+
+1. Vibration Analysis:
+   - Spectral analysis interpretation
+   - Typical frequency signatures:
+     * 1× running speed: Imbalance
+     * 2× running speed: Misalignment
+     * Blade passing frequency: Aerodynamic issues
+     * Gear mesh frequencies: Gear damage
+   - Envelope analysis for bearing defects
+   - Phase analysis for structural issues
+   - Torsional vibration analysis for drivetrain diagnostics
+
+2. Performance Curve Analysis:
+   - Nacelle power curve deviations
+   - Sectional power curve analysis for yaw misalignment
+   - Air density corrections for accurate comparison
+   - Turbulence intensity impact assessment
+   - Wake effect identification and quantification
+
+3. Electrical System Diagnostics:
+   - Generator signature analysis
+   - Partial discharge monitoring
+   - Converter waveform analysis
+   - Insulation resistance trending
+   - Thermography for connection issues
+
+4. Structural Health Monitoring:
+   - Modal analysis for structural changes
+   - Strain gauge data interpretation
+   - Acoustic emission detection of cracks
+   - Foundation movement monitoring
+   - Tower oscillation pattern analysis
+
+Advanced Diagnostic Techniques for Gas Turbines:
+
+1. Combustion Diagnostics:
+   - Pressure fluctuation analysis
+   - Flame visualization techniques
+   - Exhaust gas composition analysis
+   - Dynamic pressure monitoring
+   - Thermoacoustic instability identification
+
+2. Performance Diagnostics:
+   - Compressor performance map analysis
+   - Turbine expansion line deviation
+   - Heat rate deterioration trending
+   - Component efficiency isolation
+   - Transient performance analysis
