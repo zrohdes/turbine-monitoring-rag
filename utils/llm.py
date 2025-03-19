@@ -15,7 +15,7 @@ def query_gemini(query, context):
         genai.configure(api_key=api_key)
 
         # Create the model
-        model = GenerativeModel('gemini-pro')
+        model = GenerativeModel('gemini-1.5-flash')
 
         # Create the prompt with context
         prompt = f"""
