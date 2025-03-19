@@ -11,7 +11,7 @@ def create_vector_store(_documents):
         # Initialize embeddings
         embeddings = OpenAIEmbeddings(
             model="text-embedding-ada-002",
-            openai_api_key="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"
+            openai_api_key="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"
         )
 
         # Create vector store
